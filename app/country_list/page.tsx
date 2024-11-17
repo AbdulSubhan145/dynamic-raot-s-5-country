@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function About() {
+export default function CountryList() {
     return (
     <div>
       <h1 className="text-center m-5 text-5xl">country list page</h1>
