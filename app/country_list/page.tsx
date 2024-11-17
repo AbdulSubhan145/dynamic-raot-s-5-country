@@ -22,7 +22,7 @@ export default function About() {
         </li>
 
         <li>
-        <Link href="/country/indonasia">Indonasia</Link>
+        <Link href="/country/indonesia">Indonasia</Link>
         </li>
         
       </ul>
